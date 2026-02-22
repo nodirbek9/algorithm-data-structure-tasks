@@ -1,4 +1,4 @@
-package ArraygaOyidMasalalar;
+package ArrayBasedTasks;
 
 import java.util.Arrays;
 

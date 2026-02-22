@@ -1,7 +1,4 @@
-package ArraygaOyidMasalalar;
-
-import java.util.Arrays;
-import java.util.Collections;
+package StringTasks;
 
 public class ReverseString {
     public static void main(String[] args) {

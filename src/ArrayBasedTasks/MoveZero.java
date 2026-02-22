@@ -1,4 +1,4 @@
-package ArraygaOyidMasalalar;
+package ArrayBasedTasks;
 
 public class MoveZero {
     public static void main(String[] args) {
