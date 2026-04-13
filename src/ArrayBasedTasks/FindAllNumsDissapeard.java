@@ -4,6 +4,11 @@ import java.util.*;
 
 public class FindAllNumsDissapeard {
     public static void main(String[] args) {
+        String a = "s";
+        String c = a;
+        String b = new String("s");
+        System.out.println(a.equals(b));
+        System.out.println(a==c);
         System.out.println(findDisappearedNumbers(new int[]{1,1,1}));
     }
     public static List<Integer> findDisappearedNumbers(int[] nums) {
